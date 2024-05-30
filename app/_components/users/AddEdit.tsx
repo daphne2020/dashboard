@@ -3,7 +3,6 @@
 import { useRouter } from 'next/navigation';
 import Link from 'next/link';
 import { useForm } from 'react-hook-form';
-
 import { useAlertService, useUserService } from '_services';
 
 export { AddEdit };
@@ -51,7 +50,7 @@ function AddEdit({ title, user }: { title: string, user?: any }) {
 
     return (
         <form onSubmit={handleSubmit(onSubmit)}>
-            <h1>{title}</h1>
+            <h1 className='bg-gradient-to-r from-cyan-500 to-purple-400 mb-10 p-3 rounded text-white md:text-2xl'>{title}</h1>
             <div className="row">
                 <div className="mb-3 col">
                     <label className="form-label">First Name</label>
@@ -80,11 +79,11 @@ function AddEdit({ title, user }: { title: string, user?: any }) {
                 </div>
             </div>
             <div className="mb-3">
-                <button type="submit" disabled={formState.isSubmitting} className="btn btn-primary me-2">
+                <button type="submit" disabled={formState.isSubmitting} className="btn btn-lg me-2 text-1xl bg-cyan-500 hover:bg-cyan-700 text-white rounded">
                     {formState.isSubmitting && <span className="spinner-border spinner-border-sm me-1"></span>}
                     Save
                 </button>
-                <button onClick={() => reset()} type="button" disabled={formState.isSubmitting} className="btn btn-secondary">Reset</button>
+                <button onClick={() => reset()} type="button" disabled={formState.isSubmitting} className="btn btn-lg me-2 text-1xl bg-gray-500 hover:bg-gray-700 text-white rounded ">Reset</button>
                 <Link href="/users" className="btn btn-link">Cancel</Link>
             </div>
         </form>

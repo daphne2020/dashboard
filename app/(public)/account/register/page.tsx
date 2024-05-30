@@ -2,9 +2,7 @@
 
 import Link from 'next/link';
 import { useForm } from 'react-hook-form';
-
 import { useUserService } from '_services';
-
 export default Register;
 
 function Register() {
@@ -13,7 +11,6 @@ function Register() {
     // get functions to build form with useForm() hook
     const { register, handleSubmit, formState } = useForm();
     const { errors } = formState;
-
     const fields = {
         firstName: register('firstName', { required: 'First Name is required' }),
         lastName: register('lastName', { required: 'Last Name is required' }),
@@ -30,34 +27,37 @@ function Register() {
 
     return (
         <div className="card">
-            <h4 className="card-header">Register</h4>
+            <h1 className='card-header bg-gradient-to-r from-cyan-500 to-purple-400 mb-10 p-3 text-white md:text-2xl'>Register</h1>
             <div className="card-body">
                 <form onSubmit={handleSubmit(onSubmit)}>
                     <div className="mb-3">
                         <label className="form-label">First Name</label>
-                        <input {...fields.firstName} type="text" className={`form-control ${errors.firstName ? 'is-invalid' : ''}`} />
+                        <input {...fields.firstName} type="text" className={`form-control bg-gray-50 border-2 border-cyan-400 rounded-md ${errors.firstName ? 'is-invalid' : ''}`} />
                         <div className="invalid-feedback">{errors.firstName?.message?.toString()}</div>
                     </div>
                     <div className="mb-3">
                         <label className="form-label">Last Name</label>
-                        <input {...fields.lastName} type="text" className={`form-control ${errors.lastName ? 'is-invalid' : ''}`} />
+                        <input data-cy="error-last-name" {...fields.lastName} type="text" className={`form-control bg-gray-50 border-2 border-cyan-400 rounded-md ${errors.lastName ? 'is-invalid' : ''}`} />
                         <div className="invalid-feedback">{errors.lastName?.message?.toString()}</div>
                     </div>
                     <div className="mb-3">
                         <label className="form-label">Username</label>
-                        <input {...fields.username} type="text" className={`form-control ${errors.username ? 'is-invalid' : ''}`} />
+                        <input {...fields.username} type="text" className={`form-control bg-gray-50 border-2 border-cyan-400 rounded-md ${errors.username ? 'is-invalid' : ''}`} />
                         <div className="invalid-feedback">{errors.username?.message?.toString()}</div>
                     </div>
                     <div className="mb-3">
                         <label className="form-label">Password</label>
-                        <input {...fields.password} type="password" className={`form-control ${errors.password ? 'is-invalid' : ''}`} />
+                        <input {...fields.password} type="password" className={`form-control bg-gray-50 border-2 border-cyan-400 rounded-md ${errors.password ? 'is-invalid' : ''}`} />
                         <div className="invalid-feedback">{errors.password?.message?.toString()}</div>
                     </div>
-                    <button disabled={formState.isSubmitting} className="btn btn-primary">
-                        {formState.isSubmitting && <span className="spinner-border spinner-border-sm me-1"></span>}
-                        Register
-                    </button>
-                    <Link href="/account/login" className="btn btn-link">Cancel</Link>
+                    <div className='float-right'>
+                        <button data-cy="submit-register" disabled={formState.isSubmitting} className="btn btn-lg me-2 text-1xl bg-cyan-500 hover:bg-cyan-700
+                        text-white rounded">
+                            {formState.isSubmitting && <span className="spinner-border spinner-border-sm me-1"></span>}
+                            Register
+                        </button>
+                        <Link href="/account/login" className="btn btn-link text-cyan-500 text-lg">Cancel</Link>
+                    </div>
                 </form>
             </div>
         </div>

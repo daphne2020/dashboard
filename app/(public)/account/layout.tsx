@@ -14,7 +14,7 @@ function Layout({ children }: { children: React.ReactNode }) {
     return (
         <>
             <Alert />
-            <div className="col-md-6 offset-md-3 mt-5">
+            <div className="container-app col-md-6 offset-md-3 mt-20 bg-purple-100 p-1 rounded-md ">
                 {children}
             </div>
         </>

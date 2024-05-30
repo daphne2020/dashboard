@@ -1,4 +1,11 @@
-/** @type {import('next').NextConfig} */
-const nextConfig = {}
+module.exports = {
+    images: {
+      domains: ['randomuser.me'],
+    },
+  };
 
-module.exports = nextConfig
+//   /** @type {import('next').NextConfig} */
+// const nextConfig = {}
+
+// module.exports = nextConfig
+

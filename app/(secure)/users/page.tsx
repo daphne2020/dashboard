@@ -18,9 +18,10 @@ function Users() {
 
     return (
         <>
-            <h1>Users</h1>
-            <Link href="/users/add" className="btn btn-sm btn-success mb-2">Add User</Link>
-            <table className="table table-striped">
+            <h1 className='bg-gradient-to-r from-cyan-500 to-purple-400 mb-10 p-3 rounded text-white md:text-2xl'>Users</h1>
+            <Link href="/users/add" className="btn btn-lg me-2 text-1xl bg-purple-400 hover:bg-purple-700 text-white
+                                                flex-grid py-2 px-3 rounded focus:outline-none focus:shadow-outline">Add User</Link>
+            <table className="table table-striped mt-5">
                 <thead>
                     <tr>
                         <th style={{ width: '30%' }}>First Name</th>
@@ -44,8 +45,8 @@ function Users() {
                     <td>{user.lastName}</td>
                     <td>{user.username}</td>
                     <td style={{ whiteSpace: 'nowrap' }}>
-                        <Link href={`/users/edit/${user.id}`} className="btn btn-sm btn-primary me-1">Edit</Link>
-                        <button onClick={() => userService.delete(user.id)} className="btn btn-sm btn-danger btn-delete-user" style={{ width: '60px' }} disabled={user.isDeleting}>
+                        <Link href={`/users/edit/${user.id}`} className="btn btn-lg me-2 text-1xl bg-cyan-500 hover:bg-cyan-700 text-white rounded focus:outline-none">Edit</Link>
+                        <button onClick={() => userService.delete(user.id)} className="btn btn-lg me-2 text-1xl bg-red-400 hover:bg-red-700 text-white rounded focus:outline-none" disabled={user.isDeleting}>
                             {user.isDeleting
                                 ? <span className="spinner-border spinner-border-sm"></span>
                                 : <span>Delete</span>
