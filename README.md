@@ -1,7 +1,6 @@
-# dashboard-nextjs-mongodb-jwt-tailwind
 # A Drag and Drop Dashboard Feature
 
-Next.js 13 + App Router + MongoDB - User Rego and Login Tutorial with Example
+Next.js 13 + App Router + MongoDB - Tailwind
 
 ## The challenge
 
