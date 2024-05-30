@@ -2,7 +2,7 @@
 
 Next.js 13 + App Router + MongoDB - Tailwind
 
-## The challenge
+## The project
 
 User should be able to:
 
