@@ -24,6 +24,9 @@ User should be able to:
 
 ```
 git clone <repository>
+```
+
+```
 npm install
 ```
 
@@ -41,19 +44,22 @@ Add details for one or more providers (e.g. Google, Twitter, GitHub, Email, etc)
 
 ### 4. Start the application
 
-To build your site locally, use:
+-To build your site locally, use:
 
 ```
 npm run build
+```
 
-To run your site locally, use:
+-To run your site locally, use:
 
 ```
 npm run dev
 ```
 
-To run it in production mode, use:
+-To run it in production mode, use:
+
 
 ```
 npm run build
 npm run start
+```
