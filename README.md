@@ -84,3 +84,17 @@ npm run start
 | :------------: |
 |  <img src="https://github.com/daphne2020/daphne2020/blob/main/assets/dashboard-login.png" width="400" height="400" /> |
 
+
+. Login form
+<img src="https://github.com/daphne2020/daphne2020/blob/main/assets/dashboard-login.png" width="400" height="400" />
+
+. Edit User
+<img src="https://github.com/daphne2020/daphne2020/blob/main/assets/edit-user.png" width="400" height="400" />
+
+. Add User
+<img src="https://github.com/daphne2020/daphne2020/blob/main/assets/add-user.png" width="400" height="400" />
+
+. Dashboard Tasks
+<img src="https://github.com/daphne2020/daphne2020/blob/main/assets/dashboard.png" width="400" height="400" />
+
+
