@@ -7,14 +7,15 @@ Next.js 13 + App Router + MongoDB - Tailwind
 User should be able to:
 
 - Register a new user
+- Use json web token (JWT) to authentication
 - Search/Edit/Delete user
 - View the optimal layout for the app depending on their device's screen size
 - See hover states for all interactive elements on the page
 - Add new card to the list
 - Mark card as complete
 - Delete card from the list
-- Filter by all/active/complete card
-- Clear all completed card
+- Filter by all Backlog/InProgress/InReview/Completed cards
+- Clear all completed cards
 - Drag and drop to reorder items on the list
 
 
