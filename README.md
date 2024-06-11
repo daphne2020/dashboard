@@ -82,5 +82,5 @@ npm run start
 
 |   | 
 | :------------: |
-|  <img src="https://myoctocat.com/assets/images/dashboard-login.png" width="400" height="400" /> |
+|  <img src="https://github.com/daphne2020/daphne2020/blob/main/assets/dashboard-login.png" width="400" height="400" /> |
 
