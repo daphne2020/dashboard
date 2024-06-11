@@ -1,67 +1,6 @@
 
-## Table with verbatim CSS {#table-with-verbatim-css}
 
-There could be times when the CSS couldn't be simply specified using
-the `#+attr_css` attribute. In those cases, simply set the table class
-using `#+attr_html`, and put the CSS in the `#+begin_export html`
-block.
 
-<style>
-table.css3 tbody tr + tr td:nth-child(2) {
-    background-color: red;
-}
-table.css2 tbody tr + tr td + td {
-    background-color: tomato;
-}
-/* overwrite background again */
-table.css2 tbody tr + tr td + td + td { 
-    background-color: inherit;
-}
-</style>
-
-<table class="css3">
-<thead>
-<tr>
-  <th>1</th>
-  <th>2</th>
-  <th>3</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td>4</td>
-  <td>5</td>
-  <td>6</td>
-</tr>
-<tr>
-  <td>7</td>
-  <td>8</td>
-  <td>9</td>
-</tr>
-</tbody>
-</table>
-
-<table class="css2">
-<thead>
-<tr>
-  <th>1</th>
-  <th>2</th>
-  <th>3</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td>4</td>
-  <td>5</td>
-  <td>6</td>
-</tr>
-<tr>
-  <td>7</td>
-  <td>8</td>
-  <td>9</td>
-</tr>
-</tbody>
-</table>
 
 
 
@@ -69,8 +8,8 @@ table.css2 tbody tr + tr td + td + td {
 | Left-Aligned  | Center Aligned  | Right Aligned |
 | :------------ |:---------------:| -----:|
 | col 3 is      | some wordy text |<img src="https://github.com/daphne2020/daphne2020/blob/main/assets/tailwind-css.svg" data-canonical-src="https://github.com/daphne2020/daphne2020/blob/main/assets/tailwind-css.svg" width="100" height="50" /> |
-| col 2 is      | <img src="https://github.com/daphne2020/daphne2020/blob/main/assets/mongodb.svg" data-canonical-src="https://github.com/daphne2020/daphne2020/blob/main/assets/mongodb.svg" width="100" height="50" />         |   $12 |
-| zebra stripes | are neat        |    <img src="https://github.com/daphne2020/daphne2020/blob/main/assets/nextjs.svg" data-canonical-src="https://github.com/daphne2020/daphne2020/blob/main/assets/nextjs.svg" width="100" height="50" /> |
+| col 2 is      | <img src="https://github.com/daphne2020/daphne2020/blob/main/assets/mongodb.svg" data-canonical-src="https://github.com/daphne2020/daphne2020/blob/main/assets/mongodb.svg" width="100" height="50" />         |    |
+| - |  -  |    <img src="https://github.com/daphne2020/daphne2020/blob/main/assets/nextjs.svg" data-canonical-src="https://github.com/daphne2020/daphne2020/blob/main/assets/nextjs.svg" width="100" height="50" /> |
 
                                                                                                                                                                   
 #
