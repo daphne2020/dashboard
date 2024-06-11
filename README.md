@@ -1,6 +1,8 @@
 | ![](https://myoctocat.com/assets/images/base-octocat.svg=100x100) | A Drag and Drop Dashboard Feature |
 
-| <img src="https://myoctocat.com/assets/images/base-octocat.svg" data-canonical-src="https://myoctocat.com/assets/images/base-octocat.svg" width="200" height="400" /> | A Drag and Drop Dashboard Feature |
+|                                                                                                                                                                       | <img src="https://myoctocat.com/assets/images/base-octocat.svg" data-canonical-src="https://myoctocat.com/assets/images/base-octocat.svg" width="200" height="400" /> |
+| <img src="https://github.com/daphne2020/daphne2020/blob/main/assets/tailwind-css.svg" data-canonical-src="https://github.com/daphne2020/daphne2020/blob/main/assets/tailwind-css.svg" width="100" height="50" /> | A Drag and Drop Dashboard Feature |
+|                                                                                                                                                                       | <img src="https://github.com/daphne2020/daphne2020/blob/main/assets/nextjs.svg" data-canonical-src="https://github.com/daphne2020/daphne2020/blob/main/assets/nextjs.svg" width="100" height="50" /> |
 
 
 # A Drag and Drop Dashboard Feature
