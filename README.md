@@ -1,4 +1,4 @@
-|![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png =250x250)| XXXXX |
+| ![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100) | A Drag and Drop Dashboard Feature |
 
 | <img src="https://myoctocat.com/assets/images/base-octocat.svg" data-canonical-src="https://myoctocat.com/assets/images/base-octocat.svg" width="200" height="400" /> | A Drag and Drop Dashboard Feature |
 
