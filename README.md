@@ -1,15 +1,14 @@
 
 
 
-| Three | Four    | Five  | Six
-|-|-|-|-|
-|<td colspan=3> triple | xx |
-
-
-
-| One    | Two | Three | Four    | Five  | 
-|-|-|-|-|-
-|  <td colspan=3>triple  <td rowspan=2>double|
+|(=2)align center|align left|align right|
+|a|b|
+|:-:|:--|--:|
+|c|d|e|
+|(-2)f|g|
+|h|(-2)(=3)i|
+|j|
+|k|
 
 
 
