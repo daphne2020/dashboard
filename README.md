@@ -1,8 +1,8 @@
-| | | | | |
-|-|-|-|-|-|
-|  <td colspan=3>triple  | dsf | 213 |
-|  <td colspan=3>triple  <td rowspan=2>double
-|  <td colspan=3>triple  | dsf | 213 |
+| | | |
+|-|-|-|
+|    | dsf | 213 |
+|  <td rowspan=2>double  | kjh | 654 |
+|    | dsf | 213 |
 
 
 
