@@ -1,5 +1,13 @@
 
+[<img alt="github" src="https://img.shields.io/badge/github-stuartthompson/table--format-8da0cb?style=for-the-badge&labelColor=555555&logo=github" height="20">](https://github.com/stuartthompson/table-format)
+[<img alt="crates.io" src="https://img.shields.io/crates/v/table-format.svg?style=for-the-badge&color=fc8d62&logo=rust" height="20">](https://crates.io/crates/table-format)
+[<img alt="last commit" src="https://img.shields.io/github/last-commit/stuartthompson/table-format?logo=GitHub&style=for-the-badge" height="20">](https://github.com/stuartthompson/table-format/commits/master)
+[<img alt="ci status" src="https://img.shields.io/github/workflow/status/stuartthompson/table-format/CI?label=Build&logo=GitHub%20Actions&logoColor=%23ffffff&style=for-the-badge" height="20">](https://github.com/stuartthompson/table-format/actions/workflows/ci.yml)
 
+
+| One    | Two | Three | Four    | Five  | Six
+|-|-|-|-|-|-
+| Span <td colspan=3>triple  <td colspan=2>double
 
 
 
