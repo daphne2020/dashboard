@@ -3,7 +3,7 @@
 
 | Three | Four    | Five  | Six
 |-|-|-|-|
-|<td colspan=3> triple | xx 
+<td colspan=3> triple | xx |
 
 
 
