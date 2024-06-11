@@ -8,9 +8,9 @@
 
 | Left-Aligned  | Center Aligned  | Right Aligned |
 | :------------ |:---------------:| -----:|
-| col 3 is      | some wordy text |<img src="https://github.com/daphne2020/daphne2020/blob/main/assets/tailwind-css.svg" width="100" height="50" /> |
-| col 2 is      | <img src="https://github.com/daphne2020/daphne2020/blob/main/assets/mongodb.svg" width="100" height="50" />         |    |
-| - |  -  |    <img src="https://github.com/daphne2020/daphne2020/blob/main/assets/nextjs.svg" width="100" height="50" color="white"/> |
+|       | some wordy text |<img src="https://github.com/daphne2020/daphne2020/blob/main/assets/tailwind-css.svg" width="100" height="50" /> |
+|   <td rowspan=3>triple    | <img src="https://github.com/daphne2020/daphne2020/blob/main/assets/mongodb.svg" width="100" height="50" />         |    |
+|       |  -  |    <img src="https://github.com/daphne2020/daphne2020/blob/main/assets/nextjs.svg" width="100" height="50" color="white"/> |
 
                                                                                                                                                                   
 #
