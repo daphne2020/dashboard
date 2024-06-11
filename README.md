@@ -81,5 +81,5 @@ npm run start
 #
 
 
-|  <td rowspan=3><img src="https://myoctocat.com/assets/images/dashboard-login.png" width="400" height="400" /> |
+|  <img src="https://myoctocat.com/assets/images/dashboard-login.png" width="400" height="400" /> |
 
