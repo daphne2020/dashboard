@@ -34,7 +34,7 @@ npm install
 ### 2. Configure your local environment to connect on data base
 
 1. Replace database connection in .env file
-2. MONGODB_URI=<your conexion to mongo db with user and password>
+2. MONGODB_URI = "your conexion string to mongoDb with user and password"
 
 Add details for one or more providers (e.g. Google, Twitter, GitHub, Email, etc).
 
