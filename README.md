@@ -1,4 +1,4 @@
-| Two | Three | Four    | Five  | Six
+
 |-|-|-|-|-|
 |  <td colspan=3>triple  | dsf | 213 |
 |  <td colspan=3>triple  <td rowspan=2>double
