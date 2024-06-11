@@ -1,17 +1,6 @@
-import { transform } from '@golden-tiger/markdown'; // mjs
-const { transform } = require('@golden-tiger/markdown'); // cjs
-
-transform('# Title\n- Content');
-
-
-|(=2)align center|align left|align right|
-|a|b|
-|:-:|:--|--:|
-|c|d|e|
-|(-2)f|g|
-|h|(-2)(=3)i|
-|j|
-|k|
+| One    | Two | Three | Four    | Five  | Six
+|-|-|-|-|-|-
+| Span <td colspan=3>triple  <td colspan=2>double
 
 
 
