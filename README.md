@@ -1,8 +1,8 @@
 
 
 
-| One    | Two | Three |
-|-|-|-|
+| Span <td colspan=2>triple  <td colspan=2>double
+| Span <td colspan=2>triple  <td colspan=2>double
 | Span <td colspan=2>triple  <td colspan=2>double
 
 
