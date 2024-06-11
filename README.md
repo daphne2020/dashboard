@@ -7,24 +7,61 @@ using `#+attr_html`, and put the CSS in the `#+begin_export html`
 block.
 
 <style>
-.tab4 th,
-.tab4 td {
-    padding: 20px;
-    text-align: left;
+table.css3 tbody tr + tr td:nth-child(2) {
+    background-color: red;
+}
+table.css2 tbody tr + tr td + td {
+    background-color: tomato;
+}
+/* overwrite background again */
+table.css2 tbody tr + tr td + td + td { 
+    background-color: inherit;
 }
 </style>
 
-<div class="ox-hugo-table tab4">
-<div class="table-caption">
-  <span class="table-number">Table 5:</span>
-  Table with verbatim CSS
-</div>
+<table class="css3">
+<thead>
+<tr>
+  <th>1</th>
+  <th>2</th>
+  <th>3</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>4</td>
+  <td>5</td>
+  <td>6</td>
+</tr>
+<tr>
+  <td>7</td>
+  <td>8</td>
+  <td>9</td>
+</tr>
+</tbody>
+</table>
 
-| h1  | h2  | h3  |
-|-----|-----|-----|
-| abc | def | ghi |
-
-</div>
+<table class="css2">
+<thead>
+<tr>
+  <th>1</th>
+  <th>2</th>
+  <th>3</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>4</td>
+  <td>5</td>
+  <td>6</td>
+</tr>
+<tr>
+  <td>7</td>
+  <td>8</td>
+  <td>9</td>
+</tr>
+</tbody>
+</table>
 
 
 
