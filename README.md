@@ -36,7 +36,6 @@ npm install
 1. Replace database connection in .env file
 2. MONGODB_URI = "your conexion string to mongoDb with user and password"
 
-Add details for one or more providers (e.g. Google, Twitter, GitHub, Email, etc).
 
 ### 3. Configure Extensions - install the MongoDB for VS Code
 
