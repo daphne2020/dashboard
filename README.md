@@ -2,7 +2,7 @@
 
 
 
-| Left-Aligned  | Center Aligned  | Right Aligned |
+| On  | Tech  | Framework |
 | :------------ |:---------------:| -----:|
 |  <td rowspan=3><img src="https://myoctocat.com/assets/images/base-octocat.svg" data-canonical-src="https://myoctocat.com/assets/images/base-octocat.svg" width="200" height="400" />   | <img src="https://github.com/daphne2020/daphne2020/blob/main/assets/mongodb.svg" width="100" height="100" />         |    |
 |       |  -  |    <img src="https://github.com/daphne2020/daphne2020/blob/main/assets/nextjs.svg" width="100" height="100" color="white"/> |
