@@ -1,7 +1,7 @@
 | | | | |
 |-|-|-|-|
-|  |  | dsf | 213 |
-|  <td rowspan=3>double  | kjh | 654 |
+|  <td rowspan=3>triple  | kjh | 654 |
+|    | dsf | 213 |
 |    | dsf | 213 |
 
 
