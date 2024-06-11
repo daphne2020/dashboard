@@ -1,7 +1,7 @@
 | Two | Three | Four    | Five  | Six
-|-|-|-|-|-
+|-|-|-|-|-|
 |  <td colspan=3>triple  <td colspan=2>
-|  <td colspan=3>triple  <td colspan=2 rowspan=2>double
+|  <td colspan=3>triple  <td rowspan=2>double
 |  <td colspan=3>triple  <td colspan=2>double
 
 
