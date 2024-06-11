@@ -1,4 +1,7 @@
+import { transform } from '@golden-tiger/markdown'; // mjs
+const { transform } = require('@golden-tiger/markdown'); // cjs
 
+transform('# Title\n- Content');
 
 
 |(=2)align center|align left|align right|
