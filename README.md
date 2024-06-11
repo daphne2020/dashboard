@@ -1,6 +1,6 @@
 
 
-| ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.]https://myoctocat.com/assets/images/base-octocat.svg | width=100 | A Drag and Drop Dashboard Feature |
+| <img src="https://myoctocat.com/assets/images/base-octocat.svg" data-canonical-src="https://myoctocat.com/assets/images/base-octocat.svg" width="200" height="400" /> | A Drag and Drop Dashboard Feature |
 
 
 # A Drag and Drop Dashboard Feature
