@@ -1,27 +1,28 @@
 
+## Table with verbatim CSS {#table-with-verbatim-css}
+
+There could be times when the CSS couldn't be simply specified using
+the `#+attr_css` attribute. In those cases, simply set the table class
+using `#+attr_html`, and put the CSS in the `#+begin_export html`
+block.
+
 <style>
-    .heatMap {
-        width: 70%;
-        text-align: center;
-    }
-    .heatMap th {
-        background: grey;
-        word-wrap: break-word;
-        text-align: center;
-    }
-    .heatMap tr:nth-child(1) { background: red; }
-    .heatMap tr:nth-child(2) { background: orange; }
-    .heatMap tr:nth-child(3) { background: green; }
+.tab4 th,
+.tab4 td {
+    padding: 20px;
+    text-align: left;
+}
 </style>
 
+<div class="ox-hugo-table tab4">
+<div class="table-caption">
+  <span class="table-number">Table 5:</span>
+  Table with verbatim CSS
+</div>
 
-<div class="heatMap">
-
-| Everything | in this table | is Centered | and the table will only take up 70% of the screen width | 
-| -- | -- | -- | -- |
-| This | is | a | Red Row |
-| This | is | an | Orange Row |
-| This | is | a | Green Row |
+| h1  | h2  | h3  |
+|-----|-----|-----|
+| abc | def | ghi |
 
 </div>
 
