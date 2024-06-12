@@ -114,5 +114,8 @@ npm run start
 - Drag and Drop new Task
 #
 
-<video src="https://github.com/daphne2020/daphne2020/blob/main/assets/drag_and_drop.mp4" width="360" height="640"></video>
+<video controls>
+  <source src="[videos/real-estate.mp4](https://github.com/daphne2020/daphne2020/blob/main/assets/drag_and_drop.mp4)" type="video/mp4">
+  <source src="https://github.com/daphne2020/daphne2020/blob/main/assets/drag_and_drop.mp4" type="video/mp4" width="360" height="640">
+</video>
 
