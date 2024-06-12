@@ -94,8 +94,8 @@ npm run start
 #
 
 - Edit User
-<img src="https://github.com/daphne2020/daphne2020/blob/main/assets/edit-user.png"/>
-![image](https://github.com/daphne2020/daphne2020/blob/main/assets/edit-user-name.png)
+<img src="https://github.com/daphne2020/daphne2020/blob/main/assets/edit-user.png" style="text-align:center"/>
+<img src="https://github.com/daphne2020/daphne2020/blob/main/assets/edit-user-name.png"/>
 
 #
 
