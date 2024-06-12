@@ -78,31 +78,28 @@ npm run start
 ```
 
 #
-
 - Login form
 #
+
   <img src="https://github.com/daphne2020/daphne2020/blob/main/assets/dashboard-login.png" style="text-align:center"/>
   <img src="https://github.com/daphne2020/daphne2020/blob/main/assets/user-login-successfuly.png"/>
-
+  
 #
-
 - Register user
-<img src="https://github.com/daphne2020/daphne2020/blob/main/assets/register.png"/>
-
 #
-
+<img src="https://github.com/daphne2020/daphne2020/blob/main/assets/register.png"/>
+#
 - Edit User
+#
 <img src="https://github.com/daphne2020/daphne2020/blob/main/assets/edit-user.png" style="text-align:center"/>
 <img src="https://github.com/daphne2020/daphne2020/blob/main/assets/edit-user-name.png"/>
-
 #
-
 - Add User
-<img src="https://github.com/daphne2020/daphne2020/blob/main/assets/add-user.png" />
-
 #
-
+<img src="https://github.com/daphne2020/daphne2020/blob/main/assets/add-user.png" />
+#
 - Dashboard Tasks
+#
 <img src="https://github.com/daphne2020/daphne2020/blob/main/assets/dashboard.png" />
 
 
