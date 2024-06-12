@@ -2,7 +2,7 @@
 
 
 
-| &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; |   |   |    | 
+| &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; |   |   |    
 | :---------------: | :---------------: | :---------------: |  :---------------: |
 | <td rowspan=3> <img src="https://myoctocat.com/assets/images/base-octocat.svg" width="200" height="400" /> | 
   <img src="https://github.com/daphne2020/daphne2020/blob/main/assets/mongodb.svg" width="200" height="150" /> |  |  |  
