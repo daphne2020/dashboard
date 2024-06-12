@@ -2,11 +2,11 @@
 
 
 
-|  &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; |   |   | 
+| &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; |   |   | 
 | :---------------: | :---------------: | :---------------: |
-|  <td rowspan=3><img src="https://myoctocat.com/assets/images/base-octocat.svg" width="200" height="400" /> | <img src="https://github.com/daphne2020/daphne2020/blob/main/assets/mongodb.svg" width="200" height="150" />  |   |
-| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; |   | <img src="https://github.com/daphne2020/daphne2020/blob/main/assets/Nextjs-white.png" width="200" height="150" /> |
-| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; |   | <img src="https://github.com/daphne2020/daphne2020/blob/main/assets/tailwind-css.svg" width="200" height="150" /> |
+| <td rowspan=3><img src="https://myoctocat.com/assets/images/base-octocat.svg" width="200" height="400" /> | <img src="https://github.com/daphne2020/daphne2020/blob/main/assets/mongodb.svg" width="200" height="150" /> |  | |
+| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; |  | <img src="https://github.com/daphne2020/daphne2020/blob/main/assets/Nextjs-white.png" width="200" height="150" /> |
+| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; |  | <img src="https://github.com/daphne2020/daphne2020/blob/main/assets/tailwind-css.svg" width="200" height="150" /> |
 
                                                                                                                                                                   
 #
@@ -85,16 +85,24 @@ npm run start
 
 ![image](https://github.com/daphne2020/daphne2020/blob/main/assets/user-login-successfuly.png)
 
+#
+
 - Register user
 <img src="https://github.com/daphne2020/daphne2020/blob/main/assets/register.png"/>
+
+#
 
 - Edit User
 <img src="https://github.com/daphne2020/daphne2020/blob/main/assets/edit-user.png"/>
 
 ![image](https://github.com/daphne2020/daphne2020/blob/main/assets/edit-user-name.png)
 
+#
+
 - Add User
 <img src="https://github.com/daphne2020/daphne2020/blob/main/assets/add-user.png" />
+
+#
 
 - Dashboard Tasks
 <img src="https://github.com/daphne2020/daphne2020/blob/main/assets/dashboard.png" />
