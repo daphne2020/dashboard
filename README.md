@@ -83,6 +83,11 @@ npm run start
 - Login form
 <img src="https://github.com/daphne2020/daphne2020/blob/main/assets/dashboard-login.png"/>
 
+![image](https://github.com/daphne2020/daphne2020/blob/main/assets/user-login-successfuly.png)
+
+- Register user
+<img src="https://github.com/daphne2020/daphne2020/blob/main/assets/register.png"/>
+
 - Edit User
 <img src="https://github.com/daphne2020/daphne2020/blob/main/assets/edit-user.png"/>
 
