@@ -114,7 +114,7 @@ npm run start
 - Drag and Drop new Task
 #
 
-<img src="https://github.com/daphne2020/daphne2020/blob/main/assets/drag_and_drop.gif" alt="Demo" width="600" height="400">
+<img src="https://github.com/daphne2020/daphne2020/blob/main/assets/drag_and_drop.gif" alt="Demo" width="700" height="300">
 
 
 
