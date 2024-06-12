@@ -114,7 +114,7 @@ npm run start
 - Drag and Drop new Task
 #
 
-![Demo](https://github.com/daphne2020/daphne2020/blob/main/assets/drag_and_drop.gif)
+![Demo](https://github.com/daphne2020/daphne2020/blob/main/assets/drag_and_drop.gif){ .image25percent }
 
 
 
