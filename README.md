@@ -116,7 +116,9 @@ npm run start
 
 ![Demo](https://cloud.githubusercontent.com/assets/8235878/8893213/9b991162-33ba-11e5-8dcb-75d645bb5ee6.gif)
 
-![Demo](https://github.com/daphne2020/daphne2020/blob/main/assets/drag_and_drop.mp4)
 
+
+<video src="https://github.com/daphne2020/daphne2020/blob/main/assets/drag_and_drop.mp4" controls="controls" style="max-width: 730px;">
+</video>
 
 
