@@ -80,20 +80,13 @@ npm run start
 
 #
 
-|   | 
-| :------------: |
-|  <img src="https://github.com/daphne2020/daphne2020/blob/main/assets/dashboard-login.png" width="400" height="400" /> |
-
-#
-
 - Login form
-<img src="https://github.com/daphne2020/daphne2020/blob/main/assets/dashboard-login.png" width="400" height="400" />
+<img src="https://github.com/daphne2020/daphne2020/blob/main/assets/dashboard-login.png"/>
 
 - Edit User
-<img src="https://github.com/daphne2020/daphne2020/blob/main/assets/edit-user.png" width="400" height="400"/>
+<img src="https://github.com/daphne2020/daphne2020/blob/main/assets/edit-user.png"/>
 
 ![image](https://github.com/daphne2020/daphne2020/blob/main/assets/edit-user-name.png)
-
 
 - Add User
 <img src="https://github.com/daphne2020/daphne2020/blob/main/assets/add-user.png" />
