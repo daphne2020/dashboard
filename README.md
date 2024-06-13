@@ -1,6 +1,5 @@
 
-Under Construction 🔧📢🛠️
-<img src="https://github.com/daphne2020/daphne2020/blob/main/assets/under-construction-2.gif" alt="Demo" >
+Under Construction 🔧📢🛠️ ...
 
 
 | &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;  |   |   |    
@@ -123,6 +122,10 @@ npm run start
 #
 
 <img src="https://github.com/daphne2020/daphne2020/blob/main/assets/drag_and_drop.gif" alt="Demo" width="800" height="500">
+
+#
+
+<img src="https://github.com/daphne2020/daphne2020/blob/main/assets/under-construction-2.gif" alt="Demo" >
 
 
 
