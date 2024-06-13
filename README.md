@@ -125,7 +125,7 @@ npm run start
 
 #
 
-<img src="https://github.com/daphne2020/daphne2020/blob/main/assets/under-construction-2.gif" alt="Demo" >
+<img src="https://github.com/daphne2020/daphne2020/blob/main/assets/under-construction-2.gif" alt="Demo" width="800" height="500" >
 
 
 
