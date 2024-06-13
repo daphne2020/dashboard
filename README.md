@@ -1,6 +1,6 @@
 
 Under Construction 🔧📢🛠️
-<img src="https://github.com/daphne2020/daphne2020/blob/main/assets/under-construction.gif" alt="Demo" width="800" height="500">
+<img src="https://github.com/daphne2020/daphne2020/blob/main/assets/under-construction.gif" alt="Demo" width="400" height="250">
 
 
 | &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;  |   |   |    
